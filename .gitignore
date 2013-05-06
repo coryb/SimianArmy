@@ -68,3 +68,7 @@ atlassian-ide-plugin.xml
 .nbattrs
 /bin
 /test-output
+
+# temp REMOVE
+src/main/resources/client.properties
+.gitignore
